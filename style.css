@@ -47,7 +47,7 @@ h2 {
 
 .content > p {
   margin: 0;
-  color: #553018;
+  color: #2187da;
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.15em;
@@ -65,7 +65,7 @@ h2 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  color: #fff5f5;
+  color: #1d98eb;
 }
 
 #interests ul {
@@ -126,8 +126,8 @@ nav {
   align-items: center;
   margin-bottom: 48px;
   padding: 16px 24px;
-  background: #1900ff;
-  border: 1px solid #0004ff;
+  background: #2da1ee;
+  border: 1px solid #2590bb;
   border-radius: 12px;
 }
 
